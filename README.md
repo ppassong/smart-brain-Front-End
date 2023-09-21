@@ -1,5 +1,5 @@
-# smart-brain-api-Back-End
-FINAL PROJECT: smart-brain-api-Back-End-server in udemy The Complete Web Developer in 2023: Zero to Mastery 
+# smart-brain-Front-End
+FINAL PROJECT: smart-brain-Front-End in udemy The Complete Web Developer in 2023: Zero to Mastery
 
 1. Clone this repo
 2. Run npm install
