@@ -1,3 +1,10 @@
+# smart-brain-api-Back-End
+FINAL PROJECT: smart-brain-api-Back-End-server in udemy The Complete Web Developer in 2023: Zero to Mastery 
+
+1. Clone this repo
+2. Run npm install
+3. Run npm start
+   
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
