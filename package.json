@@ -1,0 +1,39 @@
+{
+  "name": "smart-brain",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.27.2",
+    "clarifai": "2.7.0",
+    "particles-bg": "^2.5.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-parallax-tilt": "^1.7.164",
+    "react-scripts": "^5.0.1",
+    "react-tsparticles": "^2.12.2",
+    "tachyons": "^4.12.0",
+    "tsparticles": "^2.12.0",
+    "tsparticles-slim": "^2.12.0",
+    "web-vitals": "^3.4.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
