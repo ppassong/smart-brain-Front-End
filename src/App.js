@@ -9,9 +9,6 @@ import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import Rank from './components/Rank/Rank';
 import './App.css';
 
-// const app = new Clarifai.App({
-//   apiKey: '9dd4dd35c9d4492f8bcff4fe03c17401'
-// });
 
 const initialState = {
   input: '',
