@@ -5,7 +5,7 @@ FINAL PROJECT: smart-brain-Front-End in udemy The Complete Web Developer in 2023
 2. Run npm install
 3. Run npm start
 
-@For images to work, you must attach a URL ending in .jpg in the link field.
+@ For images to work, you must attach a URL ending in .jpg in the link field.
 
 # Getting Started with Create React App
 
