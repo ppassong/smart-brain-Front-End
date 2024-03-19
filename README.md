@@ -1,7 +1,7 @@
 # smart-brain-Front-End
 FINAL PROJECT: smart-brain-Front-End in udemy The Complete Web Developer in 2023: Zero to Mastery
 
-jpg 확장자 이미지의 ai 얼굴인식 프로젝트
+jpg 확장자 이미지의 ai 얼굴인식 프로젝트ddddd
 
 1. Clone this repo
 2. Run npm install
