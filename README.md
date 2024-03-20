@@ -1,13 +1,17 @@
 # smart-brain-Front-End
+
+## < 프로젝트 소개 >
 FINAL PROJECT: smart-brain-Front-End in udemy The Complete Web Developer in 2023: Zero to Mastery
 
-jpg 확장자 이미지의 ai 얼굴인식 프로젝트ddddd
-
+얼굴 인식 AI 기술을 이용한 웹 애플리케이션 개발 프로젝트
+<br>
+<br>
+## < 사용법 >
+(기술이 작동하려면 .jpg로 끝나는 url을 링크란에 첨부해야 합니다)
 1. Clone this repo
 2. Run npm install
 3. Run npm start
 
-@ For images to work, you must attach a URL ending in .jpg in the link field.
 
 # Getting Started with Create React App
 
