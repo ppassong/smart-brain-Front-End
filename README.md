@@ -7,12 +7,25 @@ FINAL PROJECT: smart-brain-Front-End in udemy The Complete Web Developer in 2023
 
 <img width="700" alt="얼굴인식 여성" src="https://github.com/ppassong/smart-brain-Front-End/assets/132435219/64b4de04-f235-46dd-8dc2-248e3abd0ce4">
 <br>
-<br>
+
+### 사용 기술 스택
+#### Front-End
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+#### Back-End
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+
+
 ## < 사용법 >
 (기술이 작동하려면 .jpg로 끝나는 url을 링크란에 첨부해야 합니다)
 1. Clone this repo
 2. Run npm install
 3. Run npm start
+
+### 1. 회원가입 (Register)
+
+
+
+
 
 
 # Getting Started with Create React App
