@@ -4,6 +4,8 @@
 FINAL PROJECT: smart-brain-Front-End in udemy The Complete Web Developer in 2023: Zero to Mastery
 
 얼굴 인식 AI 기술을 이용한 웹 애플리케이션 개발 프로젝트
+
+<img width="700" alt="얼굴인식 여성" src="https://github.com/ppassong/smart-brain-Front-End/assets/132435219/64b4de04-f235-46dd-8dc2-248e3abd0ce4">
 <br>
 <br>
 ## < 사용법 >
